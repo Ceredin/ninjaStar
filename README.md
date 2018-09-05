@@ -1,7 +1,7 @@
 # ninjaStar
 The ninja star activity used for team building exercises. Origami Ninja Stars not included.
 
-http://cloong.ceredin.com/ninjastar.html
+You can view it [http://cloong.ceredin.com/ninjastar.html](here).
 
 I found a creative way of doing a team building exercise. I folded several origami paper ninja stars, and made this webpage which randomises different "getting to know you" questions.
 
